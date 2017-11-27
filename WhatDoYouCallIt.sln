@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReeTail", "ReeTail\ReeTail.csproj", "{A2C20639-FAA2-44B0-B437-A4AE2157416B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatDoYouCallIt", "WhatDoYouCallIt\WhatDoYouCallIt.csproj", "{95166D00-DBEB-4649-B86B-787557680173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A2C20639-FAA2-44B0-B437-A4AE2157416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2C20639-FAA2-44B0-B437-A4AE2157416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2C20639-FAA2-44B0-B437-A4AE2157416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2C20639-FAA2-44B0-B437-A4AE2157416B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95166D00-DBEB-4649-B86B-787557680173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95166D00-DBEB-4649-B86B-787557680173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95166D00-DBEB-4649-B86B-787557680173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95166D00-DBEB-4649-B86B-787557680173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5A83F036-6A90-4B83-8E4F-6420B2E71037}
+		SolutionGuid = {F1B2EEC5-A1D1-49E5-A524-1FDFA96FFA6C}
 	EndGlobalSection
 EndGlobal
